@@ -1,0 +1,11 @@
+Parabank App - 
+
+t1 - load page, navigate to about page, assert that about page was displayed
+t2 - navigate to contct page assert that contact page was displayed 
+t3 - verify that all element are present in the contact page
+t4 - submit contact info
+t5 - navigste to server page and check table value
+
+npx cypress open
+npm install cypress
+

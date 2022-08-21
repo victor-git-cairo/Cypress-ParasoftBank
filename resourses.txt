@@ -1,0 +1,52 @@
+npm init --y
+npm i cypress --save -load-dev
+npx cypress open  or node_modules/.bin/cypress open
+follow instruction from window
+
+add new test from launchpad
+
+page object node_modules
+
+Resources
+https://testersdock.com/
+https://learndevtestops.com/2020/02/19/cypress-api-testing-seamless-integration/
+https://chercher.tech/cypress-io/page-object-models-cypress-io
+
+
+Secondary Resources
+https://dev.to/automationbro/page-object-model-in-cypress-h9i
+
+https://www.google.com/search?q=how+to+create+a+page+onbject+in+cypress&rlz=1C1UEAD_enUS972US972&oq=how+to+create+a+page+onbject+in+cypress&aqs=chrome..69i57j0i22i30l2j0i390l4.13016j0j4&sourceid=chrome&ie=UTF-8#kpvalbx=_UvmdYrHFKeyuwbkPxZ6ssAo22
+
+https://lambdageeks.com/page-object-model-cypress-example/
+
+https://github.com/mrharry/cypress-framework-pageObject/blob/master/cypress/pages/loginPage.js
+
+hide fetch request
+https://stackoverflow.com/questions/71357705/hide-xhr-calls-on-cypress-test-runner
+
+https://gist.github.com/simenbrekken/3d2248f9e50c1143bf9dbe02e67f5399
+
+https://www.toolsqa.com/cypress/page-object-pattern-in-cypress/
+
+https://medium.com/slido-dev-blog/cypress-tips-4-testing-lists-of-items-dccd4b688816
+
+https://glebbahmutov.com/cypress-examples/7.1.0/recipes/get-text-list.html#with-text-matching
+
+https://www.webtips.dev/webtips/cypress/get-the-first-or-nth-element-in-cypress
+
+https://www.educba.com/overriding-in-javascript/ - tutorial
+
+https://glebbahmutov.com/cypress-examples/6.4.0/recipes/find-by-class.html
+
+AutomateNow - youtube channel - https://www.youtube.com/channel/UC5iR4BvqdDrGEWDnbrOfJ5A
+
+JoanMedia ES - https://www.youtube.com/watch?v=uIX8nHBfo-o&list=PLYDwWPRvXB8-8LG2hZv25HO6C3w_vezZb
+
+https://www.youtube.com/watch?v=GVv55mAtrUA - cypress request
+
+https://www.programsbuzz.com/course/cypress-tutorial
+
+navigation cypress - https://www.youtube.com/watch?v=pI4iXnRhric
+
+// demo from github.com

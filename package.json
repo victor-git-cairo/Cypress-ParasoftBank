@@ -1,0 +1,17 @@
+{
+  "name": "CyZebra",
+  "version": "1.0.0",
+  "description": "npm i cypress\r npx cypress open  or node_modules/.bin/cypress open\r follow instructin from window",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:run": "cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.6.0"
+  },
+  "devDependencies": {}
+}
